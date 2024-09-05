@@ -1,4 +1,4 @@
-#💫 About Me:
+# o 💫 About Me:
 I'm currently learning assembly (ARM)
 
 
