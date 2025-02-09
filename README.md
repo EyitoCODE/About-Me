@@ -1,5 +1,5 @@
 #  💫 About Me:
-I'm currently learning assembly (ARM)
+I'm currently learning computer vision
 
 
 ## 🌐 Socials:
