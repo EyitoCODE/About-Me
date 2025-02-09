@@ -1,6 +1,6 @@
 #  💫 About Me:
 - My name is Oritse-tsegbemi Eyito
-- But you can call em Emmanuel
+- But you can call me Emmanuel
 - I'm currently learning computer vision using pyhton
 - I’m interested in arts, gaming, etc
 - You can each me through my Linkedin
