@@ -1,9 +1,9 @@
 #  💫 About Me:
-My name is Oritse-tsegbemi Eyito 
-But you can call em Emmanuel
-I'm currently learning computer vision using pyhton
-I’m interested in ...
-You can each me through my Linkedin
+.My name is Oritse-tsegbemi Eyito 
+.But you can call em Emmanuel
+.I'm currently learning computer vision using pyhton
+.I’m interested in ...
+.You can each me through my Linkedin
 
 
 
